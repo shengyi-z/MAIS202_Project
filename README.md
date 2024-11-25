@@ -28,6 +28,8 @@ To run this project, you will need the following:
   - pandas
   - scikit-learn
   - PyTorch
+  - transformers
+  - seaborn
 
 ## Acknowledgement
 Special thanks to the instructors and technical project managers of McGill's Artificial Intelligence Society for their help and support throughout this project.
