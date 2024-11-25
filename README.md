@@ -5,8 +5,11 @@ This repository contains the source code and implementation for the MAIS202 proj
 The goal of this project is to build a machine learning application focused on **social media-enabled crisis informatics**.
 
 ## Dataset
-
-CrisisNLP [dataset](https://crisisnlp.qcri.org/)
+We train our model using earthquake-related tweets from three major seismic events, sourced from the CrisisNLP [dataset](https://crisisnlp.qcri.org/):
+- 2013 Pakistan Earthquake
+- 2014 California Earthquake
+- 2014 Chile Earthquake
+Each dataset contains tweet IDs and human-labeled tweets from the corresponding event. CopyRetryClaude does not have internet access. Links provided may not be accurate or up to date.Claude can make mistakes. Please double-check responses.
 
 ## Features
 - Classification of crisis-related information, such as infrastructure damage, casualties, and donation needs.
