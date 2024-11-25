@@ -9,7 +9,8 @@ We train our model using earthquake-related tweets from three major seismic even
 - 2013 Pakistan Earthquake
 - 2014 California Earthquake
 - 2014 Chile Earthquake
-Each dataset contains tweet IDs and human-labeled tweets from the corresponding event. CopyRetryClaude does not have internet access. Links provided may not be accurate or up to date.Claude can make mistakes. Please double-check responses.
+
+Each dataset contains tweet IDs and human-labeled tweets from the corresponding event.
 
 ## Features
 - Classification of crisis-related information, such as infrastructure damage, casualties, and donation needs.
