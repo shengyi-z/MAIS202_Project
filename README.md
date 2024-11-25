@@ -19,7 +19,7 @@ CrisisNLP [dataset](https://crisisnlp.qcri.org/)
 ## Requirements
 To run this project, you will need the following:
 - Python 3.8 or later
-- Required Python libraries (see `requirements.txt` for a full list):
+- Required Python libraries:
   - numpy
   - pandas
   - scikit-learn
