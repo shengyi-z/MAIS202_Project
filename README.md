@@ -19,4 +19,3 @@ To run this project, you will need the following:
   - pandas
   - scikit-learn
   - tensorflow
-  - flask (if a web app is used)
