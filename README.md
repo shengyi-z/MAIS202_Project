@@ -4,6 +4,10 @@
 This repository contains the source code and implementation for the MAIS202 project. 
 The goal of this project is to build a machine learning application focused on **social media-enabled crisis informatics**.
 
+## Dataset
+
+CrisisNLP [dataset](https://crisisnlp.qcri.org/)
+
 ## Features
 - Classification of crisis-related information, such as infrastructure damage, casualties, and donation needs.
 - Built using Python and machine learning libraries.
