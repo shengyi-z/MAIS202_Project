@@ -10,6 +10,7 @@ The goal of this project is to build a machine learning application focused on *
 
 ## File Structure
 - `app.py`: Main application file containing the codebase for data processing and model inference.
+- Additional files may include datasets and model scripts.
 
 ## Requirements
 To run this project, you will need the following:
