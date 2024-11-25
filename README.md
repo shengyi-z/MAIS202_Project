@@ -30,6 +30,10 @@ To run this project, you will need the following:
   - PyTorch
   - transformers
   - seaborn
+## References
+- Imran, M., Mitra, P., & Castillo, C. (2016). Twitter as a lifeline: Human-annotated Twitter corpora for NLP of crisis-related messages. In Proceedings of the 10th Language Resources and Evaluation Conference (LREC) (pp. 1638–1643). Portorož, Slovenia.
+- Nguyen, D. T., Al-Mannai, K. A., Joty, S., Sajjad, H., Imran, M., & Mitra, P. (2017). Robust classification of crisis-related data on social networks using convolutional neural networks. In Proceedings of the 11th International AAAI Conference on Web and Social Media (ICWSM). Montreal, Canada.
 
 ## Acknowledgement
 Special thanks to the instructors and technical project managers of McGill's Artificial Intelligence Society for their help and support throughout this project.
+
