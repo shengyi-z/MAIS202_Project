@@ -1,4 +1,4 @@
-# MAIS202 Project
+# MAIS202 Project: Social Media-Enabled Crisis Informatics
 
 ## Overview
 This repository contains the source code and implementation for the MAIS202 project. 
@@ -20,3 +20,9 @@ To run this project, you will need the following:
   - pandas
   - scikit-learn
   - PyTorch
+
+## Contributors
+
+
+## Acknowledgement
+Special thanks to the instructors and TPMs of McGill's Artificial Intelligence Society for their invaluable help and support throughout this projec.
