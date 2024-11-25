@@ -18,4 +18,4 @@ To run this project, you will need the following:
   - numpy
   - pandas
   - scikit-learn
-  - tensorflow
+  - PyTorch
