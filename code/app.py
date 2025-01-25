@@ -19,6 +19,7 @@ import io
 import base64
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 app = Flask(__name__)
 
